@@ -1,17 +1,9 @@
-\# Part 2
+# Part 2
 
+## other commands
 
-
-\## other commands
-
-
-
-ipconfig
-
-
-
-nslookup
-
+- ipconfig
+- nslookup
 
 
 
